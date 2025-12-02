@@ -98,15 +98,3 @@ python bot.py
 ## ⚠️ Disclaimer
 
 This tool is for **educational purposes only**. Automated scraping of LinkedIn may violate their Terms of Service. Use this tool responsibly and at your own risk. The author is not responsible for any account restrictions or bans.
-
------
-
-### **Next Steps for Your Repo**
-
-1.  **Create a `.gitignore` file**: You definitely don't want to accidentally upload your CSV files or virtual environment to GitHub. Create a file named `.gitignore` and add:
-    ```text
-    venv/
-    __pycache__/
-    *.csv
-    ```
-2.  **Upload:** `git add .` -\> `git commit -m "Initial commit"` -\> `git push`.
