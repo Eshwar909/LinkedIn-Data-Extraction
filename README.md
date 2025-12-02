@@ -6,7 +6,7 @@ Built with **Playwright**, this bot automates the process of searching for recen
 
 ## 🌟 Key Features
 
-  * **🚫 Anti-Block / Anti-Captcha:** Uses your existing local Chrome profile (cookies/sessions) to skip manual login and evade automated detection.
+  
   * **🔍 Smart Filtering:** Automatically filters search results by "Posts" and "Date Posted" to find the freshest leads.
   * **📜 Infinite Scroll Handling:** robust scrolling logic to trigger lazy-loading and capture deep search results.
   * **🧠 Regex Extraction:** Built-in Regex patterns to automatically identify and extract:
